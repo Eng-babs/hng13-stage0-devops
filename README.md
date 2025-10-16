@@ -5,4 +5,4 @@
 
 **Project Description:** This is my submission for the HNG13 Stage 0 DevOps task. I have successfully deployed an NGINX web server serving a custom webpage.
 
-**Server IP/Domain:** [We will fill this in later after we build the server!]
+**Server IP/Domain:** http://54.242.189.89/
